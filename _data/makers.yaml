@@ -1,0 +1,296 @@
+---
+layout: page
+title: "Minnesota Maker Resources: A Comprehensive Guide"
+permalink: /minnesota-maker-resources/
+description: "A comprehensive guide to makerspaces, hackerspaces, fab labs, educational programs, nonprofit initiatives, and startup resources in Minnesota."
+last_updated: 2025-03-29
+---
+
+# Minnesota Maker Resources
+
+makerspaces_and_hackerspaces:
+  - name: "Twin Cities Maker"
+    city: "Minneapolis"
+    description: "A nonprofit, volunteer-driven makerspace operating a shared workshop ('The Hack Factory') with tools for woodworking, metalworking, machining, electronics, textiles and more."
+    features:
+      - "24/7 access for members"
+      - "Classes (Arduino, welding, CAD)"
+      - "Public open nights"
+    location: "3119 E. 26th St., Minneapolis, MN"
+    website: "https://tcmaker.org"
+    membership: "~$55/month for full 24/7 access (discounted open nights for non-members)"
+
+  - name: "Nordeast Makers"
+    city: "Minneapolis"
+    description: "A membership-based makerspace in Northeast Minneapolis focused on woodworking and fabrication."
+    features:
+      - "10,000 sq ft workshop"
+      - "CNC router, laser cutter/engraver, CNC mill, 3D printers"
+      - "Full wood shop"
+      - "One-on-one training and knowledge sharing"
+    location: "451 Taft St. NE, Suite 14, Minneapolis, MN 55413"
+    website: "http://nordeastmakers.com"
+    membership: "~$200/month for round-the-clock access and training support"
+
+  - name: "MPLS MAKE"
+    city: "Minneapolis"
+    description: "A professional-grade community workshop in NE Minneapolis for wood and metal crafts."
+    features:
+      - "8,500 sq ft space"
+      - "State-of-the-art woodworking and metalworking equipment"
+      - "Dust collection and 20-ft ceilings"
+      - "Culture geared toward artisan craftsmanship and small business incubation"
+    location: "NE Minneapolis (Tours by appointment)"
+    website: "https://mplsmake.com"
+    membership: "~$220/month for unlimited access to the shop's advanced tools"
+
+  - name: "White Bear Makerspace"
+    city: "White Bear Lake"
+    description: "A 10,000 sq ft 'woodworkers' gym' and community workshop opened in 2022 to serve the northeast metro area."
+    features:
+      - "Wood shop, laser cutter, 3D printer"
+      - "Crafting studio for sewing, vinyl cutting, scrapbooking"
+      - "Rentable studio/desk spaces"
+      - "Staff on-site whenever open to assist and ensure safe tool use"
+    location: "5966 Hwy 61 N, White Bear Lake, MN 55110"
+    website: "https://whitebearmakerspace.com"
+    membership: "Memberships or day passes available (e.g. 5 day-use passes for $125)"
+
+  - name: "Duluth MakerSpace"
+    city: "Duluth"
+    description: "A nonprofit cooperative workshop in Duluth's Lincoln Park Craft District."
+    features:
+      - "11,000 sq ft space"
+      - "Tech tools, electronics workstations, 3D printers, laser cutters"
+      - "Full wood shop, metal shop, pottery studio"
+      - "Welding and blacksmithing equipment"
+    location: "3001 West Superior St., Duluth, MN 55806"
+    website: "http://duluthmakerspace.com"
+    membership: "Monthly membership grants 24/7 access; free public tours offered"
+
+  - name: "Mankato Makerspace"
+    city: "Mankato"
+    description: "A nonprofit creative studio providing workspace, tools, and knowledge for makers, artists, hobbyists, and entrepreneurs in Southern Minnesota."
+    features:
+      - "6,000+ sq ft facility"
+      - "Wood shop, metal shop, pottery and glass area"
+      - "Textiles, 3D printing, and classroom space"
+      - "Volunteer-run and membership-driven, with classes and events open to all ages"
+    location: "1700 3rd Ave., Mankato, MN 56001"
+    website: "https://mankatomakerspace.org"
+    membership: "Offers monthly and 6-month memberships; members get full shop access and discounts on classes"
+
+  - name: "Iron Range Makerspace"
+    city: "Hibbing"
+    description: "A makerspace, co-working, and incubator facility serving Minnesota's Iron Range region."
+    features:
+      - "Metal working bay, automotive lift, wood shop"
+      - "Textile area, recording studio, electronics lab"
+      - "Commercial kitchen"
+    location: "704 W. 41st Street, Hibbing, MN 55746"
+    website: "https://www.facebook.com/Iron-Range-Makerspace-LLC"
+    membership: "Provides membership plans for individuals and businesses, granting access to the facility and its extensive equipment library"
+
+fab_labs_and_community_workshops:
+  - name: "Century College Fab Lab"
+    city: "White Bear Lake"
+    description: "A 'hi-tech tinkerer's workshop' located on Century College's East Campus."
+    features:
+      - "Laser cutters, 3D printers, CNC machines, vinyl cutters"
+      - "Computer-aided design and desktop manufacturing tools"
+      - "Training through the college's Continuing Education programs"
+    location: "3300 Century Ave N, White Bear Lake, MN 55110"
+    website: "https://www.century.edu/academics/learning-opportunities/digital-fabrication-lab/"
+    access: "Open to Century College students (for class and personal projects) and to the public via workshops or special events"
+
+  - name: "Saint Paul Public Library – Innovation Lab"
+    city: "St. Paul"
+    description: "A free public makerspace inside the George Latimer Central Library downtown."
+    features:
+      - "3D printing, vinyl cutting, laser engraving"
+      - "Sewing, media conversion, and more"
+      - "Software, supplies, and staff support"
+    location: "90 W. 4th St., St. Paul, MN 55102"
+    website: "https://sppl.org/innovation-lab/"
+    access: "Free – library membership and orientation required for independent use (the space is open to the public during staffed hours)"
+
+  - name: "Minnesota Children's Museum – The Studio"
+    city: "St. Paul"
+    description: "The Children's Museum in St. Paul includes a makerspace studio among its exhibits, aimed at encouraging hands-on creativity in kids and families."
+    features:
+      - "Tools and materials for woodworking, circuit building, tinkering and art"
+      - "Sewing machines, simple circuits, and other supplies"
+      - "Play-focused environment"
+    location: "10 W 7th St., St. Paul, MN 55102"
+    website: "https://mcm.org"
+    access: "Included with museum admission; open to all museum visitors (children must be accompanied by an adult)"
+
+educational_programs:
+  - name: "Apple Valley High School Fab Lab"
+    city: "Apple Valley"
+    description: "A fully equipped fabrication laboratory integrated into a public high school."
+    features:
+      - "Opened in 2014 as part of a STEM pathway"
+      - "3D printers, laser cutters, CNC machines"
+      - "Follows the MIT Fab Lab model"
+      - "Supports courses and clubs where students prototype projects and learn engineering"
+    location: "14450 Hayes Rd., Apple Valley, MN 55124"
+    website: "https://avhs.district196.org/academics/fab-lab"
+    note: "One of the first high-school Fab Labs in Minnesota and part of a growing network of K-12 makerspaces in the state"
+
+  - name: "Mahtomedi High School Fab Lab"
+    city: "Mahtomedi"
+    description: "The first Fab Lab in a K-12 setting in Minnesota (opened 2011)."
+    features:
+      - "State-of-the-art design/make center for students"
+      - "Industry-grade equipment (laser cutters, CNC routers, etc.)"
+      - "Curriculum ranging from toy engineering in elementary grades to advanced engineering and manufacturing courses in high school"
+      - "Nationally recognized for bringing world-class engineering opportunities to students"
+    location: "8000 75th St N, Mahtomedi, MN 55115"
+    website: "https://www.mahtomedi.k12.mn.us"
+    note: "Often showcased as a model for integrating makerspaces into education"
+
+  - name: "University of Minnesota – Makerspaces"
+    city: "Minneapolis & St. Paul"
+    description: "The U of M operates numerous makerspaces and fabrication labs across its campuses for student and faculty use."
+    facilities:
+      - name: "Anderson Student Innovation Labs"
+        description: "Prototyping labs with design/build space for College of Science & Engineering students"
+      - name: "Bakken Medical Devices Center"
+        description: "Prototyping lab open to all university innovators"
+      - name: "Toaster Innovation Hub"
+        description: "Library makerspace in Walter Library"
+      - name: "Health Sciences Library Makerspace"
+        description: "Library makerspace focused on health sciences"
+    features:
+      - "3D printers, laser cutters, electronics benches, sewing machines"
+      - "Often free for U of M students with required training"
+    locations: "Multiple (Walter Library, Mayo Building, Keller Hall, Rapson Hall, etc. on the UMN Twin Cities campus)"
+    website: "https://makers.umn.edu"
+    access: "Generally restricted to University of Minnesota students, staff, and faculty (with some labs prioritizing certain colleges)"
+
+  - name: "University of St. Thomas – create[space]"
+    city: "St. Paul"
+    description: "A hub of creativity and innovation for St. Thomas students, located in the Anderson Student Center on campus."
+    features:
+      - "Dynamic makerspace where students from any discipline can experiment and build projects"
+      - "From sewing clothing and school spirit gear to 3D printing prototypes"
+      - "Staffed by student workers and a program manager who help maintain equipment and mentor users"
+    location: "Anderson Student Center, University of St. Thomas, St. Paul, MN"
+    access: "All St. Thomas students (and often faculty/staff) can use the space; no additional cost, as it's funded by the university"
+
+  - name: "St. Cloud State University – Husky Make-It Space"
+    city: "St. Cloud"
+    description: "SCSU's makerspace and fabrication lab, housed in Headley Hall, supports students across campus as well as community partners working on projects."
+    features:
+      - "3D printing (ABS plastic)"
+      - "Laser cutting/engraving, vinyl sticker cutting"
+      - "Large-format printing"
+      - "CNC plasma cutting and routing for woodworking/metalworking"
+    location: "Headley Hall 116, SCSU, St. Cloud, MN"
+    website: "https://www.stcloudstate.edu/ets/facilities.aspx"
+    access: "Primarily for SCSU students and faculty; external educational collaborations are possible with permission"
+
+  - name: "Other Educational Maker Programs"
+    description: "Many Minnesota schools and colleges now incorporate maker labs."
+    examples:
+      - name: "Shakopee High School's Innovation Hub"
+        description: "Includes a Fab Lab for students to engage in hands-on design and fabrication"
+        website: "https://www.shakopee.k12.mn.us/Page/8620"
+      - name: "Century College"
+        description: "Offers Fab Labs or 'makerspaces' as part of technical and arts education"
+      - name: "Mounds Park Academy"
+        description: "Has dedicated makerspaces (e.g. the AnnMarie Thomas Makerspace at MPA)"
+    note: "These educational makerspaces are typically curriculum-supported and meant to enrich learning in STEM/STEAM fields"
+
+nonprofit_and_government_initiatives:
+  - name: "Minnesota Tool Library"
+    cities: ["Minneapolis", "St. Paul"]
+    description: "A cooperative, volunteer-driven nonprofit that promotes 'access over ownership' of tools."
+    features:
+      - "Inventory of over 8,000 tools for public borrowing"
+      - "Workshop space on-site at both locations"
+      - "Equipment like table saws, lathes, workbenches, etc."
+      - "DIY classes and Fix-It clinics"
+    locations:
+      - "Northeast Minneapolis (Thorp Building, 1620 Central Ave NE)"
+      - "St. Paul (North End, 1010 Dale St. N)"
+    website: "https://www.mntoollibrary.org"
+    membership: "Annual memberships available on a sliding scale, giving unlimited tool checkouts and shop access during open hours"
+
+  - name: "Leonardo's Basement"
+    city: "Minneapolis"
+    description: "An innovative educational nonprofit (founded 1998) that many consider the 'oldest all-ages makerspace' in the world."
+    features:
+      - "Year-round inventive workshops and camps"
+      - "Youth (and occasionally adults) design and build projects of their own imagination"
+      - "Rich assortment of materials and tools for engineering, art, and technology projects"
+      - "From welding and woodworking to coding and crafting"
+    location: "2 Malcolm Ave SE, Minneapolis, MN 55414"
+    website: "https://leonardosbasement.org"
+    programs: "After-school classes, summer camps, family build events, and even partnerships with schools"
+    note: "It's not a drop-in public workshop; activities are structured as classes or sponsored sessions"
+
+  - name: "Maker Meetups and Events"
+    description: "Various nonprofits and volunteer groups support the maker community through events."
+    examples:
+      - "Mini Maker Faires"
+      - "Maker Fair Minnesota in St. Peter"
+    note: "These events, often run by volunteers or education nonprofits, provide makers with venues to showcase projects, learn from each other, and inspire the public – helping grow the maker movement at the grassroots level"
+
+  - name: "Community Education Programs"
+    description: "Many city and county community education departments (often affiliated with public school districts) run maker-focused programs or clubs."
+    examples:
+      - name: "Minneapolis Community Ed"
+        programs: "Adult classes in 3D printing and electronics"
+      - name: "Rochester Public Library"
+        programs: "Teen makerspace program"
+      - name: "Willmar's GLARS (Great Lakes Aerospace Science & Education Center)"
+        programs: "Makerspace for youth"
+    note: "These initiatives, typically nonprofit or government-funded, aim to broaden access to maker skills and tools at a local level"
+
+startup_and_prototyping_resources:
+  - name: "Launch Minnesota (State of MN – DEED)"
+    description: "A statewide initiative to accelerate startups and innovation, spearheaded by the Minnesota Department of Employment and Economic Development."
+    features:
+      - "Innovation Grants up to $35,000 for R&D, prototyping, product development, and other operational costs"
+      - "Focus on inclusive entrepreneurship (over 60% of grant recipients have been founders in greater MN or from underrepresented groups)"
+      - "Coordinates a network of startup incubators, education programs, and mentorship"
+      - "Helps new technology and manufacturing businesses grow"
+    website: "https://mn.gov/deed/launchmn"
+    support: "Grants, educational events, SBIR/STTR training, and connectivity to investors and incubators"
+
+  - name: "Enterprise Minnesota (Manufacturing Extension Partnership)"
+    description: "A nonprofit consulting organization chartered as Minnesota's official Manufacturing Extension Partnership (MEP) affiliate."
+    features:
+      - "Helps small and medium-sized manufacturers across the state to compete and grow"
+      - "Provides expertise in areas like process improvement, quality management (ISO certification), and technology adoption"
+      - "Has helped companies implement additive manufacturing/3D printing capabilities"
+      - "Publishes the Enterprise Minnesota Magazine and conducts an annual State of Manufacturing survey"
+    website: "https://www.enterpriseminnesota.org"
+    support: "Business consultations, workshops, and hands-on projects (fees often subsidized by state/federal funds due to MEP program)"
+
+  - name: "Incubators & Accelerators with Prototyping Resources"
+    description: "Minnesota is home to several startup incubators and accelerators that assist hardware makers and product developers in moving from prototype to production."
+    examples:
+      - name: "gener8tor"
+        program: "Runs a gBETA Medtech accelerator in Minneapolis (with access to lab space through partners)"
+      - name: "University Enterprise Laboratories (UEL)"
+        location: "St. Paul"
+        description: "Provides wet labs and light manufacturing space for biotech and medtech startups"
+      - name: "Meda (Metropolitan Economic Development Association)"
+        program: "Offers a BIPOC business accelerator that has helped entrepreneurs set up small production operations"
+    note: "While these organizations are not makerspaces open to the public, they do support makers transitioning into manufacturing by providing workspace, mentorship, and sometimes funding"
+    resources: "Checking in with regional innovation hubs like Forge North (a Twin Cities startup coalition) can point new entrepreneurs to available prototyping labs, incubator programs, or fabrication resources geared toward startups"
+
+  - name: "Small Batch Manufacturing Support"
+    description: "Beyond formal incubators, Minnesota has resources for entrepreneurs who need to produce short runs of products."
+    examples:
+      - name: "Protolabs"
+        location: "Maple Plain"
+        description: "Offers quick-turn prototyping and low-volume manufacturing services using CNC, injection molding and 3D printing"
+      - name: "Fastenal's Cold Spring prototyping center"
+        description: "Provides prototyping and low-volume manufacturing services"
+      - name: "Minnesota SBIR/STTR Accelerator (through MN Technology Association)"
+        description: "Helps tech inventors secure federal R&D grants to fund prototype development"
+    note: "For a maker-turned-business needing 10–1000 units, these services can bridge the gap before full-scale manufacturing"

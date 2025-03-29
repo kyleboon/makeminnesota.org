@@ -1,0 +1,30 @@
+:root {
+    --border: #dedede;
+    --text: #16161d;
+    --background: #fafafa;
+    --link: #16c;
+    --nav-spacing: 1em;
+    --section-spacing: 2em;
+    --text-line-height: 1.6;
+    --base-font-size: 24px;
+}
+
+/* Force scrollbar to prevent layout shift */
+html {
+    overflow-y: scroll;
+    -webkit-text-size-adjust: 100%;
+    font-size: var(--base-font-size);
+}
+
+body {
+    font-family: -apple-system, system-ui, sans-serif;
+    line-height: var(--text-line-height);
+    color: var(--text);
+    background: var(--background);
+    letter-spacing: 0.01em;
+    -webkit-font-smoothing: antialiased;
+    padding: 1.25rem;
+    margin: 0 auto;
+    max-width: 100%;
+    min-height: 100vh;
+}
