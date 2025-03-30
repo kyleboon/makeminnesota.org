@@ -3,10 +3,7 @@ email: kyle.f.boon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A directory of resources for Minnesota makers of all sorts.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://makeminnesota.org" # the base hostname & protocol for your site, e.g. http://example.com
-
-plugins:
-  - jekyll-feed
+url: "http://makeminnesota.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 exclude:
   - CNAME

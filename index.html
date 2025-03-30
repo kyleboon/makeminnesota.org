@@ -2,3 +2,24 @@
 layout: base
 ---
 <h1>Make Minnesota</h1>
+<div class="makerspaces-container">
+    <h2>Makerspaces & Hackerspaces in Minnesota</h2>
+    
+    {% for space in site.data.makers %}
+      <div class="makerspace-card">
+        <h3>{{ space.name }}</h3>
+        <p class="location"><strong>Location:</strong> {{ space.city }} - {{ space.location }}</p>
+        <p class="description">{{ space.description }}</p>
+        
+        <h4>Features:</h4>
+        <ul class="features-list">
+          {% for feature in space.features %}
+            <li>{{ feature }}</li>
+          {% endfor %}
+        </ul>
+        
+        <p class="membership"><strong>Membership:</strong> {{ space.membership }}</p>
+        <p class="website"><strong>Website:</strong> <a href="{{ space.website }}" target="_blank">{{ space.website }}</a></p>
+      </div>
+    {% endfor %}
+  </div>

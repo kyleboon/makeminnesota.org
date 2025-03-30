@@ -1,14 +1,3 @@
----
-layout: page
-title: "Minnesota Maker Resources: A Comprehensive Guide"
-permalink: /minnesota-maker-resources/
-description: "A comprehensive guide to makerspaces, hackerspaces, fab labs, educational programs, nonprofit initiatives, and startup resources in Minnesota."
-last_updated: 2025-03-29
----
-
-# Minnesota Maker Resources
-
-makerspaces_and_hackerspaces:
   - name: "Twin Cities Maker"
     city: "Minneapolis"
     description: "A nonprofit, volunteer-driven makerspace operating a shared workshop ('The Hack Factory') with tools for woodworking, metalworking, machining, electronics, textiles and more."
@@ -91,7 +80,6 @@ makerspaces_and_hackerspaces:
     website: "https://www.facebook.com/Iron-Range-Makerspace-LLC"
     membership: "Provides membership plans for individuals and businesses, granting access to the facility and its extensive equipment library"
 
-fab_labs_and_community_workshops:
   - name: "Century College Fab Lab"
     city: "White Bear Lake"
     description: "A 'hi-tech tinkerer's workshop' located on Century College's East Campus."
@@ -125,7 +113,6 @@ fab_labs_and_community_workshops:
     website: "https://mcm.org"
     access: "Included with museum admission; open to all museum visitors (children must be accompanied by an adult)"
 
-educational_programs:
   - name: "Apple Valley High School Fab Lab"
     city: "Apple Valley"
     description: "A fully equipped fabrication laboratory integrated into a public high school."
@@ -203,7 +190,6 @@ educational_programs:
         description: "Has dedicated makerspaces (e.g. the AnnMarie Thomas Makerspace at MPA)"
     note: "These educational makerspaces are typically curriculum-supported and meant to enrich learning in STEM/STEAM fields"
 
-nonprofit_and_government_initiatives:
   - name: "Minnesota Tool Library"
     cities: ["Minneapolis", "St. Paul"]
     description: "A cooperative, volunteer-driven nonprofit that promotes 'access over ownership' of tools."
@@ -249,7 +235,6 @@ nonprofit_and_government_initiatives:
         programs: "Makerspace for youth"
     note: "These initiatives, typically nonprofit or government-funded, aim to broaden access to maker skills and tools at a local level"
 
-startup_and_prototyping_resources:
   - name: "Launch Minnesota (State of MN – DEED)"
     description: "A statewide initiative to accelerate startups and innovation, spearheaded by the Minnesota Department of Employment and Economic Development."
     features:
@@ -269,28 +254,3 @@ startup_and_prototyping_resources:
       - "Publishes the Enterprise Minnesota Magazine and conducts an annual State of Manufacturing survey"
     website: "https://www.enterpriseminnesota.org"
     support: "Business consultations, workshops, and hands-on projects (fees often subsidized by state/federal funds due to MEP program)"
-
-  - name: "Incubators & Accelerators with Prototyping Resources"
-    description: "Minnesota is home to several startup incubators and accelerators that assist hardware makers and product developers in moving from prototype to production."
-    examples:
-      - name: "gener8tor"
-        program: "Runs a gBETA Medtech accelerator in Minneapolis (with access to lab space through partners)"
-      - name: "University Enterprise Laboratories (UEL)"
-        location: "St. Paul"
-        description: "Provides wet labs and light manufacturing space for biotech and medtech startups"
-      - name: "Meda (Metropolitan Economic Development Association)"
-        program: "Offers a BIPOC business accelerator that has helped entrepreneurs set up small production operations"
-    note: "While these organizations are not makerspaces open to the public, they do support makers transitioning into manufacturing by providing workspace, mentorship, and sometimes funding"
-    resources: "Checking in with regional innovation hubs like Forge North (a Twin Cities startup coalition) can point new entrepreneurs to available prototyping labs, incubator programs, or fabrication resources geared toward startups"
-
-  - name: "Small Batch Manufacturing Support"
-    description: "Beyond formal incubators, Minnesota has resources for entrepreneurs who need to produce short runs of products."
-    examples:
-      - name: "Protolabs"
-        location: "Maple Plain"
-        description: "Offers quick-turn prototyping and low-volume manufacturing services using CNC, injection molding and 3D printing"
-      - name: "Fastenal's Cold Spring prototyping center"
-        description: "Provides prototyping and low-volume manufacturing services"
-      - name: "Minnesota SBIR/STTR Accelerator (through MN Technology Association)"
-        description: "Helps tech inventors secure federal R&D grants to fund prototype development"
-    note: "For a maker-turned-business needing 10–1000 units, these services can bridge the gap before full-scale manufacturing"
