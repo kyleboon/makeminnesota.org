@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- Gear teeth (12 teeth around a circle) -->
+  <path d="
+    M29 4 L29 9 Q26 10 24 12 L19 9 L16 13 L20 17 Q18 19 17 22 L12 21 L11 26 L16 28 Q16 30 16 32 Q16 34 16 36 L11 38 L12 43 L17 42 Q18 45 20 47 L16 51 L19 55 L24 52 Q26 54 29 55 L29 60 L35 60 L35 55 Q38 54 40 52 L45 55 L48 51 L44 47 Q46 45 47 42 L52 43 L53 38 L48 36 Q48 34 48 32 Q48 30 48 28 L53 26 L52 21 L47 22 Q46 19 44 17 L48 13 L45 9 L40 12 Q38 10 35 9 L35 4 Z
+  " fill="none" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- North Star: four-pointed star -->
+  <path d="M32 18 L34 29 L32 31 L30 29 Z" fill="white"/>
+  <path d="M32 46 L34 35 L32 33 L30 35 Z" fill="white"/>
+  <path d="M18 32 L29 30 L31 32 L29 34 Z" fill="white"/>
+  <path d="M46 32 L35 30 L33 32 L35 34 Z" fill="white"/>
+  <!-- Center dot -->
+  <circle cx="32" cy="32" r="3" fill="#4B9CD3"/>
+</svg>
