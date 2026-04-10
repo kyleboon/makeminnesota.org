@@ -1,25 +1,68 @@
 ---
 layout: base
 ---
-<h1>Make Minnesota</h1>
-<div class="makerspaces-container">
-    <h2>Makerspaces & Hackerspaces in Minnesota</h2>
-    
+<header class="hero">
+    <img src="/assets/images/logo.svg" alt="Make Minnesota logo" class="hero-logo">
+    <h1>Make Minnesota</h1>
+    <p>Find your shop. Learn a craft. Build something real.</p>
+</header>
+
+<nav class="filter-bar">
+    <button class="filter-btn active" data-filter="all">All</button>
+    <button class="filter-btn" data-filter="makerspace">Makerspaces</button>
+    <button class="filter-btn" data-filter="education">Education</button>
+    <button class="filter-btn" data-filter="program">Programs</button>
+    <button class="filter-btn" data-filter="organization">Organizations</button>
+</nav>
+
+<div class="card-grid">
     {% for space in site.data.makers %}
-      <div class="makerspace-card">
+    <div class="card" data-category="{{ space.category }}">
+        <span class="card-category">{{ space.category }}</span>
         <h3>{{ space.name }}</h3>
-        <p class="location"><strong>Location:</strong> {{ space.city }} - {{ space.location }}</p>
-        <p class="description">{{ space.description }}</p>
-        
-        <h4>Features:</h4>
-        <ul class="features-list">
-          {% for feature in space.features %}
+        <p class="card-city">{{ space.city }}</p>
+        <p class="card-description">{{ space.description }}</p>
+        <ul class="card-features">
+            {% for feature in space.features %}
             <li>{{ feature }}</li>
-          {% endfor %}
+            {% endfor %}
         </ul>
-        
-        <p class="membership"><strong>Membership:</strong> {{ space.membership }}</p>
-        <p class="website"><strong>Website:</strong> <a href="{{ space.website }}" target="_blank">{{ space.website }}</a></p>
-      </div>
+        <p class="card-access">{{ space.access }}</p>
+        <div class="card-links">
+            <a href="{{ space.website }}" target="_blank" rel="noopener">Visit website &rarr;</a>
+            {% if space.social %}
+            <span class="social-links">
+                {% if space.social.facebook %}<a href="{{ space.social.facebook }}" target="_blank" rel="noopener" title="Facebook">FB</a>{% endif %}
+                {% if space.social.instagram %}<a href="{{ space.social.instagram }}" target="_blank" rel="noopener" title="Instagram">IG</a>{% endif %}
+                {% if space.social.youtube %}<a href="{{ space.social.youtube }}" target="_blank" rel="noopener" title="YouTube">YT</a>{% endif %}
+                {% if space.social.twitter %}<a href="{{ space.social.twitter }}" target="_blank" rel="noopener" title="Twitter">TW</a>{% endif %}
+                {% if space.social.linkedin %}<a href="{{ space.social.linkedin }}" target="_blank" rel="noopener" title="LinkedIn">LI</a>{% endif %}
+            </span>
+            {% endif %}
+        </div>
+    </div>
     {% endfor %}
-  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    var buttons = document.querySelectorAll('.filter-btn');
+    var cards = document.querySelectorAll('.card');
+
+    buttons.forEach(function (btn) {
+        btn.addEventListener('click', function () {
+            buttons.forEach(function (b) { b.classList.remove('active'); });
+            btn.classList.add('active');
+            var filter = btn.getAttribute('data-filter');
+
+            cards.forEach(function (card) {
+                if (filter === 'all' || card.getAttribute('data-category') === filter) {
+                    card.style.display = '';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        });
+    });
+});
+</script>
