@@ -1,28 +1,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
+    <title>{{ site.title }}</title>
 
     <!-- Favicon -->
     <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 
     <!-- Primary Meta Tags -->
-    <meta name="title" content="Make Minnesota">
-    <meta name="description" content="A directory of resources for Minnesota makers of all sorts.">
+    <meta name="title" content="{{ site.title }}">
+    <meta name="description" content="{{ site.description }}">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://makeminnesota.org/">
-    <meta property="og:title" content="Make Minnesota">
-    <meta property="og:description" content="A directory of resources for Minnesota makers of all sorts.">
-    <meta property="og:image" content="https://makeminnesota.org/assets/images/headshot.jpg">
+    <meta property="og:url" content="{{ site.url }}/">
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:description" content="{{ site.description }}">
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="https://makeminnesota.org/">
-    <meta name="twitter:title" content="Make Minnesota">
-    <meta name="twitter:description" content="A directory of resources for Minnesota makers of all sorts.">
-    <meta name="twitter:image" content="https://makeminnesota.org/assets/images/headshot.jpg">
+    <meta name="twitter:url" content="{{ site.url }}/">
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:description" content="{{ site.description }}">
 
     <link rel="stylesheet" href="/assets/css/main.css">
 </head>
