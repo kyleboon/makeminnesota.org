@@ -1,274 +1,1261 @@
-- name: "Twin Cities Maker"
+---
+# Minnesota Makerspaces, Hackerspaces, Folk Schools, Craft Studios & Maker Events
+# Compiled April 2026 | Covers Twin Cities Metro + Greater Minnesota
+
+# ─────────────────────────────────────────────
+# MAKERSPACES & HACKERSPACES
+# ─────────────────────────────────────────────
+
+- name: "Twin Cities Maker (The Hack Factory)"
   category: "makerspace"
   city: "Minneapolis"
-  description: "A nonprofit, volunteer-driven makerspace operating a shared workshop ('The Hack Factory') with tools for woodworking, metalworking, machining, electronics, textiles and more."
+  description: >
+    A nonprofit, volunteer-driven community of artists, engineers, and makers operating
+    a 13,000 sq ft shared workshop with 11+ dedicated shops. One of the oldest and largest
+    community makerspaces in Minnesota, founded 2009. Members have 24/7 access.
   features:
-    - "24/7 access for members"
-    - "Classes (Arduino, welding, CAD)"
-    - "Public open nights"
-  location: "3119 E. 26th St., Minneapolis, MN"
+    - "Woodworking shop"
+    - "Metalworking and machining"
+    - "Welding area"
+    - "3D printing lab"
+    - "Laser cutting room"
+    - "Electronics/computer lab"
+    - "Fiber arts area (with weekly Fiber Night)"
+    - "Ceramics (in development)"
+    - "Lapidary/gemstone arts (in development)"
+    - "Classes in Arduino, welding, CAD, and more"
+    - "Quarterly community cleanups and hackathons"
+    - "Youth robotics team sponsorships"
+  location: "3119 E. 26th St., Minneapolis, MN 55406"
   website: "https://tcmaker.org"
-  access: "~$55/month for full 24/7 access (discounted open nights for non-members)"
+  access: "$85/month or $460/6 months; need-based discounts available; personal storage included"
+  social:
+    facebook: "https://www.facebook.com/tcmaker"
+    instagram: "https://www.instagram.com/tcmaker"
 
 - name: "Nordeast Makers"
   category: "makerspace"
   city: "Minneapolis"
-  description: "A membership-based makerspace in Northeast Minneapolis focused on woodworking and fabrication."
+  description: >
+    A 24/7 member-access makerspace in NE Minneapolis focused on digital fabrication
+    and manufacturing. Offers an ultra-precise liquid-cooled laser cutter, large-format
+    CNC router, CNC mill, multiple high-resolution 3D printers, and a full woodworking shop.
   features:
-    - "10,000 sq ft workshop"
-    - "CNC router, laser cutter/engraver, CNC mill, 3D printers"
-    - "Full wood shop"
-    - "One-on-one training and knowledge sharing"
-  location: "451 Taft St. NE, Suite 14, Minneapolis, MN 55413"
-  website: "http://nordeastmakers.com"
-  access: "~$200/month for round-the-clock access and training support"
+    - "50\"×102\" CNC router"
+    - "Liquid-cooled laser cutter and etcher"
+    - "CNC mill (aluminum-capable)"
+    - "Multiple high-resolution 3D printers"
+    - "Full woodworking shop"
+    - "24/7 member access"
+    - "Electronics lab"
+  location: "451 Taft St NE, Suite 14, Minneapolis, MN 55413"
+  website: "https://nordeastmakers.com"
+  access: "Monthly membership required; see website for tiers"
+  social:
+    facebook: "https://www.facebook.com/nordeastmakersLLC"
 
 - name: "MPLS MAKE"
   category: "makerspace"
   city: "Minneapolis"
-  description: "A professional-grade community workshop in NE Minneapolis for wood and metal crafts."
+  description: >
+    A rental woodworking shop and community makerspace in the NE Minneapolis Arts District.
+    Members pay monthly for unlimited access to professional-grade tools. Also offers classes
+    in metalwork, woodwork, stained glass, knife-making, and more.
   features:
-    - "8,500 sq ft space"
-    - "State-of-the-art woodworking and metalworking equipment"
-    - "Dust collection and 20-ft ceilings"
-    - "Culture geared toward artisan craftsmanship and small business incubation"
-  location: "NE Minneapolis (Tours by appointment)"
+    - "Full woodworking shop (table saws, jointers, planers, routers)"
+    - "CNC routing"
+    - "3D printing"
+    - "Laser cutting"
+    - "Vinyl cutting"
+    - "Electronics lab"
+    - "Finishing room"
+    - "Classes in joinery, cabinetmaking, chef's-knife making, welded furniture bases"
+    - "Crafting area"
+    - "24/7 member access"
+  location: "NE Minneapolis Arts District, Minneapolis, MN"
   website: "https://mplsmake.com"
-  access: "~$220/month for unlimited access to the shop's advanced tools"
+  access: "Monthly membership; classes available à la carte"
+  social:
+    instagram: "https://www.instagram.com/mplsmake"
+
+- name: "Minnesota Makerspace"
+  category: "makerspace"
+  city: "Brainerd"
+  description: >
+    A collaborative community makerspace in Brainerd offering tools, training, and classes
+    to makers of all ages. Aimed at entrepreneurs, hobbyists, and learners who need affordable
+    access to equipment and instruction.
+  features:
+    - "Woodworking tools"
+    - "Electronics and fabrication equipment"
+    - "3D printing"
+    - "Orientation required for first visit"
+    - "Multiple membership tiers"
+    - "Classes and workshops"
+  location: "Brainerd, MN"
+  website: "https://mnmakerspace.com"
+  access: "$25/day drop-in (after orientation); monthly memberships available"
 
 - name: "White Bear Makerspace"
   category: "makerspace"
   city: "White Bear Lake"
-  description: "A 10,000 sq ft 'woodworkers' gym' and community workshop opened in 2022 to serve the northeast metro area."
+  description: >
+    A community makerspace in the White Bear Lake area offering classes and open shop time
+    in woodworking, CNC, laser cutting, epoxy art, electronics, and more. Known for a
+    welcoming atmosphere and strong class calendar.
   features:
-    - "Wood shop, laser cutter, 3D printer"
-    - "Crafting studio for sewing, vinyl cutting, scrapbooking"
-    - "Rentable studio/desk spaces"
-    - "Staff on-site whenever open to assist and ensure safe tool use"
-  location: "5966 Hwy 61 N, White Bear Lake, MN 55110"
-  website: "https://whitebearmakerspace.com"
-  access: "Memberships or day passes available (e.g. 5 day-use passes for $125)"
+    - "Woodworking tools"
+    - "CNC router"
+    - "Laser cutter"
+    - "Epoxy art classes"
+    - "Cutting board classes"
+    - "Electronics projects"
+    - "Open shop time for members"
+  location: "White Bear Lake, MN"
+  website: "https://whitebearlakemakerspace.com"
+  access: "Memberships and à la carte classes available"
+
+- name: "Nordeast Makers"
+  category: "makerspace"
+  city: "Minneapolis"
+  description: "See primary listing above."
 
 - name: "Duluth MakerSpace"
   category: "makerspace"
   city: "Duluth"
-  description: "A nonprofit cooperative workshop in Duluth's Lincoln Park Craft District."
+  description: >
+    Duluth's community makerspace, devoted to offering a sustainable multi-field cooperative
+    workshop for local artists, inventors, experimenters, teachers, and learners. Houses
+    woodworking, metalworking, 3D printers, CNC machines, and more.
   features:
-    - "11,000 sq ft space"
-    - "Tech tools, electronics workstations, 3D printers, laser cutters"
-    - "Full wood shop, metal shop, pottery studio"
-    - "Welding and blacksmithing equipment"
-  location: "3001 West Superior St., Duluth, MN 55806"
-  website: "http://duluthmakerspace.com"
-  access: "Monthly membership grants 24/7 access; free public tours offered"
+    - "Woodworking shop"
+    - "Metal working"
+    - "3D printers"
+    - "CNC machines"
+    - "Community open nights"
+  location: "Duluth, MN"
+  website: "https://duluthmakerspace.com"
+  access: "Membership based; see website"
+  social:
+    facebook: "https://www.facebook.com/duluthmakerspace"
 
 - name: "Mankato Makerspace"
   category: "makerspace"
   city: "Mankato"
-  description: "A nonprofit creative studio providing workspace, tools, and knowledge for makers, artists, hobbyists, and entrepreneurs in Southern Minnesota."
+  description: >
+    A community makerspace serving the Mankato/Greater MN region, providing maker-oriented
+    tools and community workspace for hobbyists, students, and entrepreneurs.
   features:
-    - "6,000+ sq ft facility"
-    - "Wood shop, metal shop, pottery and glass area"
-    - "Textiles, 3D printing, and classroom space"
-    - "Volunteer-run with classes and events open to all ages"
-  location: "1700 3rd Ave., Mankato, MN 56001"
+    - "Fabrication equipment"
+    - "3D printing"
+    - "Electronics"
+    - "Community workspace"
+  location: "Mankato, MN"
   website: "https://mankatomakerspace.org"
-  access: "Monthly and 6-month memberships; members get full shop access and discounts on classes"
+  access: "Membership based"
 
-- name: "Iron Range Makerspace"
+- name: "Cannon Valley Makerspace"
   category: "makerspace"
-  city: "Hibbing"
-  description: "A makerspace, co-working, and incubator facility serving Minnesota's Iron Range region."
+  city: "Dundas"
+  description: >
+    A community makerspace in Dundas (near Northfield), serving the Cannon Valley area
+    with shared tools and maker community resources.
   features:
-    - "Metal working bay, automotive lift, wood shop"
-    - "Textile area, recording studio, electronics lab"
-    - "Commercial kitchen"
-  location: "704 W. 41st Street, Hibbing, MN 55746"
-  website: "https://www.facebook.com/Iron-Range-Makerspace-LLC"
-  access: "Membership plans for individuals and businesses, granting access to the facility and equipment"
+    - "Shared tools and fabrication equipment"
+    - "Community workspace"
+    - "Electronics and digital fabrication"
+  location: "Dundas, MN"
+  website: "https://cannonvalleymakerspace.org"
+  access: "Membership based"
 
-- name: "Minnesota Tool Library"
+- name: "The Makery"
   category: "makerspace"
-  city: "Minneapolis & St. Paul"
-  description: "A cooperative, volunteer-driven nonprofit that promotes 'access over ownership' of tools."
+  city: "Saint Paul"
+  description: >
+    A community-oriented makerspace in Saint Paul offering shared tools, workspace, and
+    a welcoming environment for makers of all backgrounds.
   features:
-    - "Inventory of over 8,000 tools for public borrowing"
-    - "Workshop space on-site at both locations"
-    - "Equipment like table saws, lathes, workbenches"
-    - "DIY classes and Fix-It clinics"
-  location: "NE Minneapolis (1620 Central Ave NE) and St. Paul North End (1010 Dale St. N)"
-  website: "https://www.mntoollibrary.org"
-  access: "Annual memberships on a sliding scale, giving unlimited tool checkouts and shop access during open hours"
+    - "Shared tools and workspace"
+    - "Community events"
+    - "Classes and workshops"
+  location: "Saint Paul, MN"
+  website: "https://themakery.org"
+  access: "Membership based"
+
+- name: "Schemespace Community Makerspace"
+  category: "makerspace"
+  city: "Minneapolis"
+  description: >
+    A community makerspace and tutoring center in Minneapolis offering access to maker tools
+    alongside educational support.
+  features:
+    - "Maker tools and workspace"
+    - "Tutoring services"
+    - "Community classes"
+  location: "Minneapolis, MN"
+  website: "https://schemespace.org"
+  access: "Membership and class-based access"
 
 - name: "Leonardo's Basement"
   category: "makerspace"
   city: "Minneapolis"
-  description: "An innovative educational nonprofit (founded 1998) that many consider the 'oldest all-ages makerspace' in the world. Activities are structured as classes or sponsored sessions, not drop-in."
+  description: >
+    An innovative educational makerspace for children, adults, and families in Minneapolis.
+    Known for ambitious projects (including a 25-foot "Death Star" build), teaching engineering,
+    CAD, metalworking, woodworking, arts, and crafts through hands-on learning.
   features:
-    - "Year-round inventive workshops and camps"
-    - "Rich assortment of materials and tools for engineering, art, and technology"
-    - "From welding and woodworking to coding and crafting"
-    - "After-school classes, summer camps, family build events, school partnerships"
-  location: "2 Malcolm Ave SE, Minneapolis, MN 55414"
-  website: "https://leonardosbasement.org"
-  access: "Registration required; activities are structured as classes, camps, or sponsored sessions"
+    - "Engineering and CAD instruction"
+    - "Metalworking"
+    - "Woodworking"
+    - "Arts and crafts"
+    - "Youth and family programs"
+    - "Summer camps"
+  location: "Minneapolis, MN"
+  website: "https://leonardsbasement.org"
+  access: "Class-based and membership options"
 
-- name: "Century College Fab Lab"
-  category: "education"
-  city: "White Bear Lake"
-  description: "A 'hi-tech tinkerer's workshop' located on Century College's East Campus."
+- name: "Raspberry Island Folk School"
+  category: "makerspace"
+  city: "McGregor"
+  description: >
+    A folk school on an island on Big Sandy Lake, about 2.25 hours north of the Twin Cities
+    and 1 hour west of Duluth. Offers summertime blacksmithing, pottery, and traditional
+    craft workshops taught by invited instructors. Featured on Lakeland PBS.
   features:
-    - "Laser cutters, 3D printers, CNC machines, vinyl cutters"
-    - "Computer-aided design and desktop manufacturing tools"
-    - "Training through the college's Continuing Education programs"
-  location: "3300 Century Ave N, White Bear Lake, MN 55110"
-  website: "https://www.century.edu/academics/learning-opportunities/digital-fabrication-lab/"
-  access: "Open to Century College students and to the public via workshops or special events"
+    - "Blacksmithing classes (beginner through advanced)"
+    - "Pottery"
+    - "Damascus knife making"
+    - "Frontier blacksmithing"
+    - "Traditional folk arts"
+    - "Outdoor island setting"
+  location: "Big Sandy Lake, McGregor, MN"
+  website: "https://raspberryislandfolkschool.blogspot.com"
+  access: "Per-class pricing; summer season only"
 
-- name: "Saint Paul Public Library – Innovation Lab"
-  category: "education"
-  city: "St. Paul"
-  description: "A free public makerspace inside the George Latimer Central Library downtown."
-  features:
-    - "3D printing, vinyl cutting, laser engraving"
-    - "Sewing, media conversion, and more"
-    - "Software, supplies, and staff support"
-  location: "90 W. 4th St., St. Paul, MN 55102"
-  website: "https://sppl.org/innovation-lab/"
-  access: "Free – library membership and orientation required for independent use (open to the public during staffed hours)"
+# ─────────────────────────────────────────────
+# FIRE ARTS, METALSMITHING & BLACKSMITHING
+# ─────────────────────────────────────────────
 
-- name: "Minnesota Children's Museum – The Studio"
-  category: "education"
-  city: "St. Paul"
-  description: "A makerspace studio within the Children's Museum, aimed at encouraging hands-on creativity in kids and families."
+- name: "Chicago Avenue Fire Arts Center (CAFAC)"
+  category: "fire_arts"
+  city: "Minneapolis"
+  description: >
+    A nonprofit arts organization housed in a historic South Minneapolis building, focused
+    on art forms using heat, spark, or flame. Offers classes quarterly in blacksmithing,
+    enameling, flameworking, jewelry making, metal casting, neon bending, sculptural welding,
+    and more. Also hosts youth summer camps and a public art program.
   features:
-    - "Tools and materials for woodworking, circuit building, tinkering and art"
-    - "Sewing machines, simple circuits, and other supplies"
-    - "Play-focused environment"
-  location: "10 W 7th St., St. Paul, MN 55102"
-  website: "https://mcm.org"
-  access: "Included with museum admission; children must be accompanied by an adult"
+    - "Blacksmithing (8-week fundamentals and advanced)"
+    - "Jewelry making and metalsmithing"
+    - "Welding and metal fabrication"
+    - "Flameworking / glasswork"
+    - "Neon bending"
+    - "Metal casting"
+    - "Enameling"
+    - "Youth SPEAK summer camps"
+    - "Shop access memberships (Fuelership)"
+    - "Quarterly class schedule (Jan/Apr/Jul/Oct)"
+    - "Income-based scholarship fund"
+  location: "3749 Chicago Ave, Minneapolis, MN 55407"
+  website: "https://www.cafac.org"
+  access: "Per-class fees; quarterly registration; income-based scholarships available"
+  social:
+    facebook: "https://www.facebook.com/cafacmpls"
+    instagram: "https://www.instagram.com/cafacmpls"
 
-- name: "Apple Valley High School Fab Lab"
-  category: "education"
-  city: "Apple Valley"
-  description: "A fully equipped fabrication laboratory integrated into a public high school, opened in 2014 as part of a STEM pathway. One of the first high-school Fab Labs in Minnesota."
+- name: "The Guild of Metalsmiths"
+  category: "metalsmithing"
+  city: "Minneapolis / Saint Paul"
+  description: >
+    A 501(c)(3) nonprofit dedicated to keeping the metalworking arts alive in Minnesota.
+    Offers classes ranging from entry level to advanced in and around the Twin Cities area.
+    Also hosts meetings, a forum, and a shop for members.
   features:
-    - "3D printers, laser cutters, CNC machines"
-    - "Follows the MIT Fab Lab model"
-    - "Supports courses and clubs for prototyping and engineering"
-  location: "14450 Hayes Rd., Apple Valley, MN 55124"
-  website: "https://avhs.district196.org/academics/fab-lab"
-  access: "Available to enrolled students through STEM courses and clubs"
+    - "Blacksmithing classes (all levels)"
+    - "Metalsmithing instruction"
+    - "Member meetings and community"
+    - "Online forum and resources"
+  location: "Twin Cities Metro, MN"
+  website: "https://guildofmetalsmiths.org"
+  access: "Membership and class-based fees"
 
-- name: "Mahtomedi High School Fab Lab"
-  category: "education"
-  city: "Mahtomedi"
-  description: "The first Fab Lab in a K-12 setting in Minnesota (opened 2011). Nationally recognized for bringing world-class engineering opportunities to students."
+- name: "Tunnel Mill Blacksmith Shop"
+  category: "blacksmithing"
+  city: "Rochester"
+  description: >
+    A historic mill and blacksmith shop offering year-round classes in blacksmithing and
+    knife-making taught by guest instructors. Beginner students learn drawing out, upsetting,
+    bending, and twisting. Knife-making classes cover heating, treating, grinding, and
+    handle making. Damascus knife making also offered.
   features:
-    - "State-of-the-art design/make center for students"
-    - "Industry-grade equipment (laser cutters, CNC routers, etc.)"
-    - "Curriculum from toy engineering in elementary to advanced manufacturing in high school"
-  location: "8000 75th St N, Mahtomedi, MN 55115"
-  website: "https://www.mahtomedi.k12.mn.us"
-  access: "Available to enrolled students through curriculum programs"
+    - "Beginner blacksmithing (fire poker project)"
+    - "Knife making (full process)"
+    - "Damascus knife making"
+    - "Guest instructor series year-round"
+    - "Historic mill setting"
+  location: "4505 Hwy. 63 North, Rochester, MN 55906"
+  website: "https://tunnelmill.com"
+  access: "Per-class fees; see website for schedule"
 
-- name: "University of Minnesota – Makerspaces"
-  category: "education"
-  city: "Minneapolis & St. Paul"
-  description: "The U of M operates numerous makerspaces and fabrication labs across its campuses for student and faculty use."
+- name: "Duluth Forging Community"
+  category: "blacksmithing"
+  city: "Duluth"
+  description: >
+    A community blacksmithing group in Duluth offering forge access and instruction for
+    those interested in traditional ironwork and bladesmithing.
   features:
-    - "Anderson Student Innovation Labs – prototyping for CSE students"
-    - "Bakken Medical Devices Center – prototyping lab open to all university innovators"
-    - "Toaster Innovation Hub – library makerspace in Walter Library"
-    - "3D printers, laser cutters, electronics benches, sewing machines"
-  location: "Multiple campus locations (Walter Library, Mayo Building, Keller Hall, Rapson Hall)"
-  website: "https://makers.umn.edu"
-  access: "Generally restricted to U of M students, staff, and faculty (free with required training)"
+    - "Forge access"
+    - "Blacksmithing instruction"
+    - "Community smithing sessions"
+  location: "1325 London Rd., Duluth, MN 55805"
+  access: "Community-based; contact for current schedule"
 
-- name: "University of St. Thomas – create[space]"
-  category: "education"
-  city: "St. Paul"
-  description: "A hub of creativity and innovation for St. Thomas students, located in the Anderson Student Center on campus."
+- name: "Ken's Custom Iron"
+  category: "blacksmithing"
+  city: "Avon"
+  description: >
+    A working custom ironworks in central Minnesota offering blacksmithing classes
+    during the winter months. One-on-one instruction where students forge a hand-made
+    item to take home.
   features:
-    - "Dynamic makerspace for students from any discipline"
-    - "From sewing clothing to 3D printing prototypes"
-    - "Staffed by student workers and a program manager"
-  location: "Anderson Student Center, University of St. Thomas, St. Paul, MN"
-  website: "https://www.stthomas.edu"
-  access: "All St. Thomas students and faculty/staff; no additional cost"
+    - "Beginner-friendly blacksmithing"
+    - "One-on-one instruction"
+    - "Forged take-home item"
+    - "Winter class schedule"
+  location: "37634 County Road 9, Avon, MN 56310"
+  access: "Per-class; winter season only; contact for schedule"
 
-- name: "St. Cloud State University – Husky Make-It Space"
-  category: "education"
-  city: "St. Cloud"
-  description: "SCSU's makerspace and fabrication lab, housed in Headley Hall, supports students and community partners."
+- name: "NorthStar Forge"
+  category: "blacksmithing"
+  city: "Minnesota"
+  description: >
+    Founded by master bladesmith Jason (featured on History Channel's Forged in Fire and
+    Discovery Channel's Master of Arms), NorthStar Forge offers bladesmithing classes and
+    custom knife making instruction.
   features:
-    - "3D printing (ABS plastic)"
-    - "Laser cutting/engraving, vinyl sticker cutting"
-    - "Large-format printing"
-    - "CNC plasma cutting and routing for woodworking/metalworking"
-  location: "Headley Hall 116, SCSU, St. Cloud, MN"
-  website: "https://www.stcloudstate.edu/ets/facilities.aspx"
-  access: "Primarily for SCSU students and faculty; external collaborations possible with permission"
+    - "Bladesmithing classes"
+    - "Custom knife making"
+    - "Master-level instruction"
+  website: "https://northstarforge.com"
+  access: "Per-class; contact for current schedule"
 
-- name: "Other Educational Maker Programs"
-  category: "education"
-  city: "Various"
-  description: "Many Minnesota schools and colleges incorporate maker labs into their curriculum for STEM/STEAM education."
+- name: "Historic Fort Snelling Blacksmith Shop"
+  category: "blacksmithing"
+  city: "Saint Paul"
+  description: >
+    The living history blacksmith shop at Historic Fort Snelling, operated by the Minnesota
+    Historical Society. Offers demonstrations and occasional hands-on blacksmithing programs
+    in a 19th-century fort setting.
   features:
-    - "Shakopee High School Innovation Hub – Fab Lab for hands-on design and fabrication"
-    - "Century College – Fab Labs as part of technical and arts education"
-    - "Mounds Park Academy – AnnMarie Thomas Makerspace"
-  location: "Various locations across Minnesota"
-  website: "https://www.shakopee.k12.mn.us/Page/8620"
-  access: "Typically curriculum-supported; available to enrolled students"
+    - "Blacksmithing demonstrations"
+    - "Hands-on historic craft programs"
+    - "Living history education"
+  location: "200 Tower Ave, Saint Paul, MN 55111"
+  website: "https://www.mnhs.org/fortsnelling"
+  access: "General admission to Fort Snelling; program fees vary"
+  social:
+    facebook: "https://www.facebook.com/HistoricFortSnelling"
 
-- name: "Maker Meetups and Events"
-  category: "program"
-  city: "Various"
-  description: "Various nonprofits and volunteer groups support the maker community through events, providing venues to showcase projects, learn, and inspire the public."
-  features:
-    - "Mini Maker Faires"
-    - "Maker Fair Minnesota in St. Peter"
-    - "Opportunities to showcase projects and learn from other makers"
-  location: "Various locations across Minnesota"
-  website: "https://makerfaire.com"
-  access: "Open to the public; check individual event listings for details"
+# ─────────────────────────────────────────────
+# CERAMICS & POTTERY STUDIOS
+# ─────────────────────────────────────────────
 
-- name: "Community Education Programs"
-  category: "program"
-  city: "Various"
-  description: "Many city and county community education departments run maker-focused programs or clubs to broaden access to maker skills and tools."
+- name: "Northern Clay Center"
+  category: "ceramics_studio"
+  city: "Minneapolis"
+  description: >
+    One of the foremost ceramic arts centers in the nation, offering classes for all ages
+    and skill levels, gallery exhibitions, a shop, artist residency programs, and a ClayToGo
+    community outreach program. A premier destination for both serious ceramic artists
+    and curious beginners.
   features:
-    - "Minneapolis Community Ed – adult classes in 3D printing and electronics"
-    - "Rochester Public Library – teen makerspace program"
-    - "Willmar GLARS – makerspace for youth"
-  location: "Various locations across Minnesota"
-  website: "https://www.minneapolisparks.org"
-  access: "Typically nonprofit or government-funded; open to the public"
+    - "Beginner wheel throwing classes"
+    - "Beginner handbuilding classes"
+    - "Intermediate to advanced courses"
+    - "Special topics workshops"
+    - "Kids and teen after-school programs"
+    - "Artist residency programs"
+    - "ClayToGo outreach (schools, libraries, senior centers)"
+    - "Gallery exhibitions"
+    - "Online sales gallery of handmade ceramics"
+    - "National/international visiting artist workshops"
+    - "Studio artist program (24/7 access, application required)"
+  location: "2424 E. Franklin Ave., Minneapolis, MN 55406"
+  website: "https://northernclaycenter.org"
+  access: "Per-class fees; studio memberships available; scholarships offered"
+  social:
+    facebook: "https://www.facebook.com/NorthernClayCenter"
+    instagram: "https://www.instagram.com/northernclaycenter"
 
-- name: "Launch Minnesota (State of MN – DEED)"
-  category: "organization"
-  city: "Statewide"
-  description: "A statewide initiative to accelerate startups and innovation, spearheaded by the Minnesota Department of Employment and Economic Development."
+- name: "Fired Up Studios"
+  category: "ceramics_studio"
+  city: "Golden Valley"
+  description: >
+    A community pottery studio in Golden Valley that has been serving potters of all levels
+    for over 20 years. Offers beginner Clay Date experiences (1–2 hrs), multi-week beginning
+    pottery courses, intermediate throwing courses, and studio memberships with open studio
+    access, equipment, and full firing services.
   features:
-    - "Innovation Grants up to $35,000 for R&D, prototyping, and product development"
-    - "Over 60% of grant recipients from greater MN or underrepresented groups"
-    - "Network of startup incubators, education programs, and mentorship"
-    - "SBIR/STTR training and connectivity to investors"
-  location: "Statewide (administered by MN DEED)"
-  website: "https://mn.gov/deed/launchmn"
-  access: "Grants, educational events, and programs open to Minnesota entrepreneurs and innovators"
+    - "Clay Date (2-hour intro experience)"
+    - "8-week Beginning Pottery course"
+    - "Intermediate wheel throwing courses"
+    - "Studio memberships with open studio access"
+    - "Full kiln firing services"
+    - "Retail gallery"
+  location: "1000 Boone Ave N, Suite 380, Golden Valley, MN 55427"
+  website: "https://www.firedupstudios.com"
+  access: "Clay Date ~$45+; 8-week course; memberships available"
 
-- name: "Enterprise Minnesota"
-  category: "organization"
-  city: "Statewide"
-  description: "A nonprofit consulting organization chartered as Minnesota's official Manufacturing Extension Partnership (MEP) affiliate, helping small and medium manufacturers compete and grow."
+- name: "The Cracked Pot Studio"
+  category: "ceramics_studio"
+  city: "Minneapolis"
+  description: >
+    A warm, welcoming pottery studio in South Minneapolis near the VA Medical Center.
+    Offers studio memberships, wheel throwing and handbuilding classes, kids classes,
+    sip-n-spin events, clay dates, and specialty workshops. Known for patient,
+    community-oriented instruction.
   features:
-    - "Process improvement and quality management (ISO certification)"
-    - "Technology adoption including additive manufacturing/3D printing"
-    - "Enterprise Minnesota Magazine and annual State of Manufacturing survey"
-    - "Business consultations and workshops"
-  location: "Statewide (headquartered in Minneapolis)"
-  website: "https://www.enterpriseminnesota.org"
-  access: "Business consultations and workshops (fees often subsidized by state/federal MEP funds)"
+    - "Wheel throwing classes"
+    - "Handbuilding classes"
+    - "Sip-n-spin events"
+    - "Private and group clay dates"
+    - "Kids classes"
+    - "Specialty workshops"
+    - "Studio memberships"
+  location: "4301 E. 54th St., Minneapolis, MN"
+  website: "https://www.thecrackedpotstudiomn.com"
+  access: "Per-class and membership pricing; private sessions available"
+  social:
+    instagram: "https://www.instagram.com/thecrackedpotstudiomn"
+
+- name: "Mudluk Pottery"
+  category: "ceramics_studio"
+  city: "Minneapolis"
+  description: >
+    A community-focused pottery studio and gallery on Minnehaha Avenue. Hosts classes,
+    workshops, residencies, and community gatherings. Prioritizes uplifting Black, brown,
+    queer, disabled, and neurodivergent creatives. Offers 1-hour and 2-hour clay dates,
+    handbuilding classes, wheel throwing, and a monthly First Friday event.
+  features:
+    - "Clay dates (1 and 2 hour)"
+    - "Handbuilding classes"
+    - "Wheel throwing"
+    - "Residency program"
+    - "First Friday community events"
+    - "Gallery exhibitions"
+    - "Scholarship fund"
+  location: "Minnehaha Ave, Minneapolis, MN"
+  website: "https://www.mudlukpottery.com"
+  access: "Clay dates from $85; class pricing varies"
+  social:
+    instagram: "https://www.instagram.com/mudlukpottery"
+
+- name: "Forma Clay"
+  category: "ceramics_studio"
+  city: "Minneapolis"
+  description: >
+    A modern, welcoming pottery studio in the Twin Cities offering 24/7 studio access for
+    members, flexible memberships, classes for beginners through advanced, and open studio
+    time. Focused on building a supportive creative community.
+  features:
+    - "Wheel throwing classes"
+    - "Open studio (24/7 member access)"
+    - "Flexible membership tiers"
+    - "Beginner through advanced instruction"
+    - "Community-focused programming"
+  location: "Minneapolis, MN"
+  website: "https://formaclay.com"
+  access: "Memberships and class-based pricing; 24/7 access for members"
+  social:
+    instagram: "https://www.instagram.com/formaclaystudio"
+
+- name: "Dock 6 Pottery Classroom"
+  category: "ceramics_studio"
+  city: "Saint Anthony"
+  description: >
+    A ceramics studio, gallery, and production studio in Saint Anthony (NE metro area).
+    Offers beginner-friendly wheel throwing and handbuilding classes with no minimum
+    enrollment — classes run regardless of size. Multi-week courses and one-day workshops
+    available; includes clay, tools, and glazes with no hidden fees.
+  features:
+    - "Wheel throwing (beginner and advancing)"
+    - "Handbuilding classes"
+    - "3-session introductory series"
+    - "Self-directed intermediate sessions"
+    - "Private group bookings"
+    - "No minimum enrollment policy"
+    - "All materials included"
+  location: "Saint Anthony, MN"
+  website: "https://dock6pottery.com"
+  access: "Per-class fees; all materials included; $20 rescheduling fee after first reschedule"
+  social:
+    instagram: "https://www.instagram.com/dock6pottery"
+
+- name: "Artistry (Bloomington Art Center)"
+  category: "ceramics_studio"
+  city: "Bloomington"
+  description: >
+    Formed when the Bloomington Art Center merged with the Bloomington Civic Theater in 2009,
+    Artistry offers Clay for a Day workshops, children's classes, and open studio time.
+    Runs Family Arts Day programs open to all ages. One of the Twin Cities' top community
+    arts centers.
+  features:
+    - "Clay for a Day workshops (small groups)"
+    - "Children's pottery classes"
+    - "Family Arts Day events"
+    - "Open studio time"
+    - "Theater and visual arts programming"
+  location: "1800 W Old Shakopee Rd, Bloomington, MN 55431"
+  website: "https://artistrymn.org"
+  access: "Per-class and membership pricing"
+  social:
+    facebook: "https://www.facebook.com/ArtistryMN"
+    instagram: "https://www.instagram.com/artistrymn"
+
+- name: "Edina Art Center"
+  category: "ceramics_studio"
+  city: "Edina"
+  description: >
+    One of the premier pottery facilities in the Twin Cities, operating since the late 1970s.
+    Extensive facilities accommodate a wide range of techniques from beginner through advanced.
+    Staffed by 20+ volunteers and professionals supporting community classes.
+  features:
+    - "Wheel throwing (all levels)"
+    - "Handbuilding"
+    - "Glaze techniques"
+    - "Community classes"
+    - "Kids and teen programming"
+  location: "Edina, MN"
+  website: "https://edinaartcenter.com"
+  access: "Per-class and City of Edina Parks & Rec pricing"
+
+- name: "Lakeville Area Arts Center — Pottery Studio"
+  category: "ceramics_studio"
+  city: "Lakeville"
+  description: >
+    Part of the Lakeville Area Arts Center, this community pottery studio offers
+    5–6 week adult pottery classes with open studio access, as well as youth classes
+    and workshops in pottery, painting, photography, drawing, and jewelry.
+  features:
+    - "5–6 week adult pottery classes"
+    - "Open studio access for enrolled students"
+    - "Youth and adult classes"
+    - "Photography and jewelry workshops"
+    - "Painting and drawing classes"
+  location: "Lakeville, MN"
+  website: "https://www.lakevilleareaartscenter.com"
+  access: "Per-class Lakeville Parks & Rec pricing"
+
+- name: "Minnetonka Center for the Arts"
+  category: "ceramics_studio"
+  city: "Minnetonka"
+  description: >
+    A comprehensive community arts center offering extensive ceramics programming including
+    wheel throwing, handbuilding, raku, soda firing, and high-fire reduction. Also offers
+    painting, drawing, and youth programs.
+  features:
+    - "Wheel throwing (beginner through advanced)"
+    - "Handbuilding / sculptural forms"
+    - "High-fire, raku, and soda firing"
+    - "Glaze exploration"
+    - "Youth wheel throwing intro"
+    - "Adult and continuing classes"
+    - "Retail art supply shop on premises"
+  location: "Minnetonka, MN"
+  website: "https://minnetonkaarts.org"
+  access: "Per-class pricing"
+  social:
+    facebook: "https://www.facebook.com/minnetonkacenterforthearts"
+    instagram: "https://www.instagram.com/minnetonkaarts"
+
+- name: "Caufield Clay Works"
+  category: "ceramics_studio"
+  city: "Minneapolis"
+  description: >
+    A studio on University Avenue run by Kevin Caufield for over 40 years, combining
+    passion for pottery with teaching. Offers classic wheel-throwing and handbuilding
+    classes, plus a popular 2-hour Wine & Clay experience.
+  features:
+    - "Wheel throwing classes"
+    - "Handbuilding classes"
+    - "Wine and Clay (2-hour social class)"
+    - "Private and 1-on-1 lessons"
+  location: "University Ave, Minneapolis, MN"
+  access: "Per-class pricing; Wine and Clay frequently on Groupon"
+
+- name: "Eagan Art House"
+  category: "ceramics_studio"
+  city: "Eagan"
+  description: >
+    Part of the City of Eagan Parks & Rec Department, the Eagan Art House offers
+    community-based wheel throwing and ceramics classes open to Eagan and surrounding
+    Metro residents. Serves all ages and skill levels; private classes for corporate
+    and family groups available.
+  features:
+    - "Wheel throwing classes (all levels)"
+    - "Handbuilding"
+    - "Private corporate and family group sessions"
+    - "Youth programming"
+  location: "Eagan, MN"
+  website: "https://www.cityofeagan.com/art-house"
+  access: "City of Eagan Parks & Rec pricing"
+
+# ─────────────────────────────────────────────
+# GLASSBLOWING & GLASS ARTS
+# ─────────────────────────────────────────────
+
+- name: "Foci Minnesota Center for Glass Arts (Foci MCGA)"
+  category: "glassblowing_studio"
+  city: "Minneapolis"
+  description: >
+    A world-class glass studio and education facility in Minneapolis, teaching thousands
+    of Minnesotans the foundations of glassblowing, flameworking, stained glass, and glass
+    fusing. Offers beginner through advanced coursework, quarterly class sessions, open
+    studio hot shop rentals, visiting artist workshops, and demonstrations at the MN State Fair.
+  features:
+    - "Intro to Glassblowing (6-week, quarterly)"
+    - "Refining Fundamentals (biannual)"
+    - "Intermediate Glassblowing (quarterly)"
+    - "Color Application (fall and spring)"
+    - "Cane Techniques (semiannual)"
+    - "Venetian Techniques (annual)"
+    - "Visiting Artist Workshop intensives (5-day, winter)"
+    - "Open Studio Hot Shop (monthly, Third Thursdays)"
+    - "Stained glass classes"
+    - "Glass fusing"
+    - "Flameworking"
+    - "Income-based scholarships"
+  location: "2613 E. Franklin Ave., Minneapolis, MN 55406"
+  website: "https://www.mnglassart.org"
+  access: "Per-class fees; scholarships available; hot shop rental for enrolled students discounted"
+  social:
+    facebook: "https://www.facebook.com/fociglassarts"
+    instagram: "https://www.instagram.com/fociglassarts"
+
+- name: "Legacy Glassworks"
+  category: "glassblowing_studio"
+  city: "Minneapolis"
+  description: >
+    A 10-person glassblowing studio in Minneapolis offering intro and intermediate classes
+    for adults 21+. Intro classes teach wine glass, pendant, or marble making. Intermediate
+    classes build on beginner skills. Group discounts available.
+  features:
+    - "Intro: How to Make a Wine Glass ($90)"
+    - "Intro: Pendant Making ($75)"
+    - "Intro: Marble Making ($75)"
+    - "Intermediate: Hollow Vessels, Pipes, Pendants, Marbles"
+    - "Advanced classes (by appointment)"
+    - "Gift certificates available"
+    - "Group discount (4–7 people, 15% off)"
+  location: "Minneapolis, MN"
+  website: "https://www.legacyglassworks.com"
+  access: "$70–$90 per intro class; 21+ only; max 7 per class"
+  social:
+    instagram: "https://www.instagram.com/legacyglassworks"
+
+- name: "Skylab Glass Arts"
+  category: "glassblowing_studio"
+  city: "Golden Valley"
+  description: >
+    Twin Cities' home for glass art materials, studio space, and instruction located in
+    Golden Valley. Offers glassblowing and lampworking classes for beginners and experienced
+    artists. Can host groups up to 30 for team-building or celebration events.
+  features:
+    - "Glassblowing classes (beginner and advancing)"
+    - "Lampworking instruction"
+    - "Group events and team-building (up to 30)"
+    - "Glass art materials retail"
+    - "Octagonal in-studio training table"
+    - "Gift certificates"
+  location: "Golden Valley, MN"
+  website: "https://www.skylabglassarts.com"
+  access: "Per-class fees; group bookings available"
+  social:
+    instagram: "https://www.instagram.com/skylabglassarts"
+
+- name: "Stone Arch Glass Studio (MN Legit)"
+  category: "glassblowing_studio"
+  city: "Minneapolis"
+  description: >
+    Offers lampwork glassblowing intro classes teaching students to melt and shape glass
+    rods into beads, pendants, and small sculptures using a torch. Additional dates available
+    through surrounding Community Education districts.
+  features:
+    - "Beginner lampwork glassblowing"
+    - "Bead making"
+    - "Pendant making"
+    - "Small sculpture"
+    - "Community Education district partnerships"
+  location: "Minneapolis, MN"
+  website: "https://mnlegit.com"
+  access: "Per-class fees; community ed options available"
+
+- name: "Alchemy Arts"
+  category: "glass_arts"
+  city: "Stillwater"
+  description: >
+    A unique arts studio in the Stillwater/St. Paul/Minneapolis area offering classes in
+    fused glass and metal clay. Fused glass involves layering glass pieces and kiln-firing;
+    metal clay allows rolling, shaping, and texturing powder metal into jewelry and art.
+    Private party bookings for groups of 8+.
+  features:
+    - "Fused glass classes"
+    - "Metal clay jewelry classes"
+    - "Private BYOB group parties (8+ people)"
+    - "Range of project types and price points"
+  location: "Stillwater, MN area"
+  website: "https://www.alchemyarts.net"
+  access: "Per-class; private party pricing available; BYOB"
+
+- name: "Potekglass"
+  category: "glass_arts"
+  city: "Minneapolis"
+  description: >
+    Hosts classes and workshops in kiln work, stained glass, glass bead making, and other
+    glass arts techniques for all skill levels in the Minneapolis area.
+  features:
+    - "Kiln glass classes"
+    - "Stained glass workshops"
+    - "Glass bead making"
+    - "Various glass techniques"
+  location: "Minneapolis, MN"
+  access: "Per-class pricing"
+
+# ─────────────────────────────────────────────
+# WOODWORKING
+# ─────────────────────────────────────────────
+
+- name: "Fireweed Community Woodshop"
+  category: "woodworking"
+  city: "Minneapolis"
+  description: >
+    Formerly Women's Woodshop (founded 2017), Fireweed fosters community and individual
+    growth through woodworking classes, fabrication, volunteering, and celebration.
+    Centers an inclusive, exploration-oriented approach, empowering women and non-binary
+    makers. Works with 50+ contract instructors, teaching 150+ classes/year to 1,000+
+    students. Offers sliding scale and no-questions-asked scholarships.
+  features:
+    - "Craft division: spoon carving, basket weaving, axe gymnastics, toy making"
+    - "Furniture division: table building, hand-cut dovetails"
+    - "Home repair: 'Be Your Own Handy Person' (renovation skills)"
+    - "Open Shop sessions with skilled instructors"
+    - "150+ classes annually"
+    - "Sliding scale pricing"
+    - "Scholarships available"
+  location: "Minneapolis, MN"
+  website: "https://www.fireweedwoodshop.org"
+  access: "Per-class; sliding scale pricing; scholarships available"
+  social:
+    facebook: "https://www.facebook.com/fireweedcommunitywoodshop"
+    instagram: "https://www.instagram.com/fireweedwoodshop"
+
+- name: "Edina Community Woodshop"
+  category: "woodworking"
+  city: "Edina"
+  description: >
+    A community woodshop in Edina for men and women committed to the craft of woodworking.
+    Members have access to a well-equipped shop and a lively community always willing to
+    share advice and support.
+  features:
+    - "Shared woodworking shop"
+    - "Member community and mentorship"
+    - "Membership-based access"
+  location: "Edina, MN"
+  website: "https://edinacommunity woodshop.org"
+  access: "Membership based"
+
+- name: "Minnesota Woodworkers Guild"
+  category: "woodworking"
+  city: "Twin Cities Metro"
+  description: >
+    A guild serving woodworkers throughout the Twin Cities and greater Minnesota. Maintains
+    a class directory, hosts events, publishes resources, and runs a Tuition Grant Program
+    for instructors and students. Partners with TC Maker, Fireweed, and other regional
+    woodshops.
+  features:
+    - "Class directory for Twin Cities and statewide"
+    - "Tuition Grant Program"
+    - "Member gallery and events"
+    - "Resource guides (tools, lumber, finishing)"
+  website: "https://mnwwg.org"
+  access: "Membership; classes via partner organizations"
+  social:
+    facebook: "https://www.facebook.com/mnwwg"
+
+# ─────────────────────────────────────────────
+# FIBER ARTS & TEXTILES
+# ─────────────────────────────────────────────
+
+- name: "Textile Center"
+  category: "fiber_arts"
+  city: "Minneapolis"
+  description: >
+    America's only national center for fiber art, incorporated in 1994. A dynamic hub for
+    weaving, quilting, knitting, sewing, dyeing, felting, needlework, lace making, basketry,
+    beading, soft sculpture, and multi-media fiber work. Houses a professional-grade dye lab,
+    natural dye garden, artisan shop, gallery exhibitions, and classes for all ages. Free and
+    open to the public 6 days a week. Located on Green Line light rail.
+  features:
+    - "Weaving (loom and tapestry)"
+    - "Dyeing (natural dye garden + professional dye lab)"
+    - "Felting"
+    - "Knitting and fiber arts basics"
+    - "Sewing"
+    - "Embroidery and needlework"
+    - "Basketry"
+    - "Beading"
+    - "Soft sculpture"
+    - "Guest Teaching Artist intensive workshops (2–5 days)"
+    - "Classes for all ages and skill levels"
+    - "Artisan shop"
+    - "Gallery exhibitions"
+    - "Scholarships for BIPOC, LGBTQ+, and marginalized communities"
+  location: "3000 University Ave SE #100, Minneapolis, MN 55414"
+  website: "https://textilecentermn.org"
+  access: "Per-class fees; free public gallery; scholarships available; on Green Line at Prospect Park stop"
+  social:
+    facebook: "https://www.facebook.com/TextileCenter"
+    instagram: "https://www.instagram.com/textilecentermn"
+    youtube: "https://www.youtube.com/@TextileCenter"
+
+# ─────────────────────────────────────────────
+# BOOK ARTS, PRINTMAKING & PAPER
+# ─────────────────────────────────────────────
+
+- name: "Minnesota Center for Book Arts (MCBA)"
+  category: "book_arts"
+  city: "Minneapolis"
+  description: >
+    Describes itself as "the largest, most comprehensive center of its kind in the world,"
+    offering 200+ workshops, 10 gallery exhibitions, and 5 artist fellowships annually.
+    Disciplines include letterpress printing, screen printing, bookbinding, papermaking,
+    marbling, box making, and book sculpture. Houses Vandercook presses, a paper beater,
+    and a full bookbinding lab. Studio Labs offer open-access work sessions.
+  features:
+    - "Letterpress printing (Vandercook press)"
+    - "Screen printing"
+    - "Hand bookbinding (5+ structures)"
+    - "Papermaking (Western and Eastern methods)"
+    - "Marbling"
+    - "Book sculpture and pop-ups"
+    - "Hot foil stamping"
+    - "Cutting equipment lab"
+    - "Studio Labs (open-access sessions)"
+    - "200+ workshops per year"
+    - "5 artist fellowships annually"
+    - "Pay-it-Forward and scholarship pricing"
+  location: "1011 Washington Ave S, Minneapolis, MN 55415"
+  website: "https://mnbookarts.org"
+  access: "Per-workshop fees; MCBA members get 10% discount; scholarships and Pay-It-Forward pricing"
+  social:
+    facebook: "https://www.facebook.com/MNBookArts"
+    instagram: "https://www.instagram.com/mnbookarts"
+
+# ─────────────────────────────────────────────
+# PHOTOGRAPHY
+# ─────────────────────────────────────────────
+
+- name: "Praxis Photo Arts Center"
+  category: "photography_darkroom"
+  city: "Minneapolis"
+  description: >
+    Minnesota's only 24/7 community analog photography darkroom. A complete darkroom facility
+    with wet and dry darkrooms supporting B&W film development, traditional silver-gelatin
+    printing (35mm through 8×10), color film development (C-41), cyanotype, platinum/palladium,
+    wet plate collodion, and film scanning. Offers workshops for all experience levels.
+    Access members can use the darkroom around the clock.
+  features:
+    - "24/7 darkroom access for members"
+    - "Black-and-white film development and printing"
+    - "Color film development (C-41, JOBO CPE2)"
+    - "Silver-gelatin enlarging (35mm–8x10)"
+    - "Cyanotype printing workshops"
+    - "Platinum/palladium printing"
+    - "Wet plate collodion"
+    - "Film scanning station"
+    - "Intro darkroom workshops (1 month free access included)"
+    - "1-on-1 private instruction"
+    - "Alternative process intensives"
+  location: "Minneapolis, MN"
+  website: "https://www.praxisphotocenter.org"
+  access: "Access memberships + per-workshop fees; intro workshops include 1-month free access"
+  social:
+    instagram: "https://www.instagram.com/praxisphotoarts"
+
+# ─────────────────────────────────────────────
+# DIY CRAFT / MIXED MEDIA
+# ─────────────────────────────────────────────
+
+- name: "Upstairs Circus"
+  category: "diy_craft_bar"
+  city: "Minneapolis"
+  description: >
+    A creative DIY workshop meets full-service bar in Minneapolis's Warehouse District.
+    Choose from 25+ hands-on craft projects — concrete coasters, macramé wall hangings,
+    leather card wallets, jewelry, woodworking, wine bottle tumblers, and more — while
+    sipping craft cocktails. Perfect for date nights, bachelorette parties, and group events.
+    Locations also in Austin and Denver.
+  features:
+    - "25+ self-guided craft projects at any time"
+    - "Leather card wallet making"
+    - "Macramé"
+    - "Jewelry making"
+    - "Woodworking mini-projects"
+    - "Full-service bar"
+    - "Group event and party bookings"
+    - "All materials and instructions provided"
+  location: "125 N Washington Ave, Unit B, Minneapolis, MN 55401"
+  website: "https://upstairscircus.com/mpls"
+  access: "Project pricing $20–$60+; walk-in and reservations; 21+ during bar hours"
+  social:
+    facebook: "https://www.facebook.com/upstairscircus"
+    instagram: "https://www.instagram.com/upstairscircus"
+
+- name: "Simply Creative Minneapolis"
+  category: "diy_craft"
+  city: "Minneapolis"
+  description: >
+    A DIY craft studio offering trendy maker classes in polymer clay magnets, resin jewelry,
+    stacker rings, candle making, and more. Classes inspired by social media craft trends.
+  features:
+    - "Polymer clay magnets"
+    - "Resin jewelry"
+    - "Stacker rings"
+    - "Candle making"
+    - "Various trending craft formats"
+  location: "Minneapolis, MN"
+  access: "Per-class pricing"
+
+- name: "Ingebretsen's Nordic Marketplace"
+  category: "cultural_craft"
+  city: "Minneapolis"
+  description: >
+    A beloved Minneapolis Nordic marketplace offering traditional Scandinavian folk craft
+    classes including rosemaling (Norwegian decorative painting), singlade balls, braided
+    bracelets, pincushions, and more. A Twin Cities cultural institution.
+  features:
+    - "Rosemaling classes"
+    - "Singlade ball making"
+    - "Braided bracelets"
+    - "Pincushions and traditional Nordic crafts"
+    - "Nordic marketplace and gift shop"
+  location: "1601 E. Lake St., Minneapolis, MN 55407"
+  website: "https://www.ingebretsens.com"
+  access: "Per-class fees"
+  social:
+    facebook: "https://www.facebook.com/Ingebretsens"
+    instagram: "https://www.instagram.com/ingebretsens"
+
+# ─────────────────────────────────────────────
+# COMMUNITY ART CENTERS
+# ─────────────────────────────────────────────
+
+- name: "Minneapolis College of Art and Design (MCAD) Continuing Education"
+  category: "community_arts"
+  city: "Minneapolis"
+  description: >
+    Open-enrollment continuing education at MCAD — no degree required. Offers classes
+    for all skill levels in oil painting, screen printing, metalworking, ceramics,
+    drawing, graphic design, jewelry, and more. Also offers youth, teen, and summer camp
+    programming.
+  features:
+    - "Painting (oil, acrylic, watercolor)"
+    - "Drawing and illustration"
+    - "Screen printing and printmaking"
+    - "Metalsmithing and jewelry"
+    - "Ceramics"
+    - "Digital design"
+    - "Photography"
+    - "Needle felting and embroidery"
+    - "Youth and teen summer camps"
+    - "Pre-College Summer Session"
+  location: "2501 Stevens Ave, Minneapolis, MN 55404"
+  website: "https://www.mcad.edu/academics/continuing-education"
+  access: "Per-class CE pricing; some youth programs"
+  social:
+    facebook: "https://www.facebook.com/mcadmn"
+    instagram: "https://www.instagram.com/mcadmn"
+
+- name: "ArtStart"
+  category: "community_arts"
+  city: "Saint Paul"
+  description: >
+    An award-winning Saint Paul nonprofit that hosts community art classes while promoting
+    sustainability through their ArtScraps program — capturing thousands of pounds of
+    manufacturing scraps and overstock materials for art use. Provides accessible art
+    education and eco-conscious maker resources.
+  features:
+    - "Community art classes for all ages"
+    - "ArtScraps upcycled materials program"
+    - "Youth arts programs"
+    - "Sustainability-focused art making"
+  location: "Saint Paul, MN"
+  website: "https://www.artstart.org"
+  access: "Per-class and program-based fees"
+  social:
+    facebook: "https://www.facebook.com/ArtStartMN"
+    instagram: "https://www.instagram.com/artstartmn"
+
+- name: "Minnetonka Center for the Arts"
+  category: "community_arts"
+  city: "Minnetonka"
+  description: "See also Ceramics listing. Multi-discipline community arts center with painting, drawing, ceramics, youth classes, and more."
+  location: "Minnetonka, MN"
+  website: "https://minnetonkaarts.org"
+
+- name: "Tweed Museum of Art — Maker/Communities Space"
+  category: "community_arts"
+  city: "Duluth"
+  description: >
+    A free, public-access makerspace inside the Tweed Museum of Art at the University of
+    Minnesota Duluth. Open to K–12 teachers and general public on a first-come, first-served
+    basis during museum hours. Ideal for art activities and community making.
+  features:
+    - "Free public access"
+    - "Art-making materials and space"
+    - "K–12 teacher programming support"
+    - "First-come, first-served"
+  location: "1201 Ordean Ct., Duluth, MN 55812"
+  website: "https://tweed.d.umn.edu/makerspace"
+  access: "Free; open during Tweed Museum hours"
+
+# ─────────────────────────────────────────────
+# FOLK SCHOOLS (Greater MN)
+# ─────────────────────────────────────────────
+
+- name: "North House Folk School"
+  category: "folk_school"
+  city: "Grand Marais"
+  description: >
+    Founded in 1997 on the shore of Lake Superior, North House is one of the leading folk
+    schools in the nation, attracting 3,000+ students to 350+ courses per year across 18
+    themes. Inspired by Scandinavian folk schools, the campus teaches traditional crafts in
+    a cooperative, student-centered environment. Average class length is 3 days, making it
+    a perfect short getaway. Also operates the schooner Hjørdis for Lake Superior sailing.
+  features:
+    - "Boat building (birchbark canoes, kayaks, wooden boats)"
+    - "Blacksmithing and toolmaking"
+    - "Timber framing (one of few places teaching Scandinavian method)"
+    - "Fiber arts (spinning, weaving, basketry, felting)"
+    - "Woodcarving, woodturning, woodworking"
+    - "Leatherwork"
+    - "Traditional foods (bread baking, sausage making)"
+    - "Sailing on schooner Hjørdis"
+    - "Painting and photography"
+    - "Northern ecology and outdoor skills"
+    - "Youth and intergenerational programs"
+    - "2-hour drop-in bread baking on the commons"
+    - "School Store open daily"
+    - "Members get early course registration"
+    - "350+ courses/year; 3-day average class length"
+  location: "500 Hwy. 61 West, Grand Marais, MN 55604"
+  website: "https://northhouse.org"
+  access: "Per-course tuition; lodging/meals separate (campground next door); early-bird discounts"
+  social:
+    facebook: "https://www.facebook.com/northhouse"
+    instagram: "https://www.instagram.com/northhousefolkschool"
+    youtube: "https://www.youtube.com/@NorthHouseFolkSchool"
+
+- name: "Grand Marais Art Colony"
+  category: "folk_school"
+  city: "Grand Marais"
+  description: >
+    Minnesota's oldest continuously operating art colony, founded in 1947. Offers year-round
+    workshops and classes from May–September, led by practicing studio artists and college
+    faculty. Disciplines include ceramics, drawing, literary arts, painting, printmaking,
+    and sculpture. Also hosts 200+ classes/year, artist residencies, youth summer art camps
+    (in partnership with North House Folk School), and community events. Has dedicated
+    studios for glass, clay, and printmaking.
+  features:
+    - "Painting (plein air, studio, watercolor, acrylic, oil)"
+    - "Ceramics and pottery"
+    - "Printmaking"
+    - "Drawing and sculpture"
+    - "Literary arts"
+    - "Glass arts studio"
+    - "200+ classes per year"
+    - "Artist-in-residence program"
+    - "Youth Art Camps (summer, ages 5–14)"
+    - "Youth art clubs"
+    - "Need-based and youth scholarships"
+    - "Gallery and artist shop"
+  location: "120 W 3rd Ave, Grand Marais, MN 55604"
+  website: "https://grandmaraisartcolony.org"
+  access: "Per-class tuition; scholarships available; 75% refund if cancelled 45+ days before start"
+  social:
+    facebook: "https://www.facebook.com/GrandMaraisArtColony"
+    instagram: "https://www.instagram.com/grandmaraisartcolony"
+
+- name: "Duluth Folk School"
+  category: "folk_school"
+  city: "Duluth"
+  description: >
+    Founded in 2016, the Duluth Folk School operates a storefront in Duluth's Lincoln Park
+    Craft District, which includes a café and performance space. Offers classes in traditional
+    crafts alongside practical life skills — bike maintenance, beekeeping, knitting, canning,
+    drying rack making, bread baking, and writing. Also hosts free concerts, yoga, and artisan
+    markets. Flanked by OMC Smokehouse and Bent Paddle Brewing.
+  features:
+    - "Traditional craft classes"
+    - "Bike maintenance"
+    - "Beekeeping"
+    - "Knitting and fiber crafts"
+    - "Canning and food preservation"
+    - "Bread baking"
+    - "Writing and pitch classes"
+    - "Free community concerts"
+    - "Yoga"
+    - "Artisan markets"
+    - "Lincoln Park Craft District storefront with café"
+  location: "Lincoln Park Craft District, West Duluth, MN"
+  website: "https://duluthfolkschool.com"
+  access: "Per-class fees; many free community events"
+  social:
+    facebook: "https://www.facebook.com/duluthfolkschool"
+    instagram: "https://www.instagram.com/duluthfolkschool"
+
+- name: "Ely Folk School"
+  category: "folk_school"
+  city: "Ely"
+  description: >
+    A relatively new folk school (opened circa 2015) in Ely, Minnesota, near the Boundary
+    Waters Canoe Area. Offers courses in traditional and outdoor crafts including blacksmithing,
+    winter photography, animal tracking, and canoe country skills. Also hosts weekly community
+    gatherings for crafting and socializing.
+  features:
+    - "Blacksmithing classes"
+    - "Winter photography"
+    - "Animal tracking"
+    - "Outdoor and canoe country skills"
+    - "Traditional crafts"
+    - "Weekly community craft gatherings"
+  location: "Ely, MN"
+  website: "https://elyfolkschool.com"
+  access: "Per-class fees"
+  social:
+    facebook: "https://www.facebook.com/elyfolkschool"
+
+# ─────────────────────────────────────────────
+# MAKER FAIRES & EVENTS
+# ─────────────────────────────────────────────
+
+- name: "Maker Faire Rochester"
+  category: "maker_faire"
+  city: "Rochester"
+  description: >
+    An annual community festival celebrating the DIY spirit and creativity in Rochester, MN.
+    Organized as a Mini Maker Faire affiliated with the national Maker Faire movement.
+    Features robots, LEGO, soldering, sewing, electronics, and all manner of creative making.
+    The 2024 event was held November 16, 2024.
+  features:
+    - "Robotics demonstrations"
+    - "LEGO builds"
+    - "Soldering and electronics"
+    - "Sewing and textiles"
+    - "3D printing"
+    - "Interactive maker exhibits"
+    - "All-ages community festival"
+  location: "Rochester, MN"
+  website: "https://rochester.makerfaire.com"
+  access: "General admission; annual event (typically fall)"
+  social:
+    facebook: "https://www.facebook.com/makerfairerochester"
+
+# ─────────────────────────────────────────────
+# ADDITIONAL / SPECIALTY
+# ─────────────────────────────────────────────
+
+- name: "VanMadrone MetalWorks"
+  category: "blacksmithing"
+  city: "Minnesota"
+  description: >
+    Offers beginner-friendly and advanced blacksmithing classes with one-on-one instruction
+    from Jef VanMadrone. Students forge a hand-made item to take home in each session.
+  features:
+    - "One-on-one instruction"
+    - "Beginner and advanced blacksmithing"
+    - "Forged take-home item per class"
+  access: "Per-class; contact for schedule"
+
+- name: "The Workshop MPLS"
+  category: "ceramics_studio"
+  city: "Minneapolis"
+  description: >
+    A queer and accessible clay studio on Minnehaha Avenue offering wheel throwing, pottery
+    basics, and whimsical themed Clay Camps (fairy houses, clay food, etc.). Also hosts
+    Pottery Pop Ins — drop-in 1-hour clay play sessions. Lots of kid- and teen-friendly
+    programming.
+  features:
+    - "Wheel throwing classes"
+    - "Pottery basics"
+    - "Clay Camps (fairy house, food, windchimes)"
+    - "Pottery Pop Ins (1-hour drop-in)"
+    - "Pin and charm workshops"
+    - "Trinket wall shelf making"
+    - "Youth and teen classes"
+    - "Queer and accessible studio environment"
+  location: "Minnehaha Ave, Minneapolis, MN"
+  access: "Per-class; Pop Ins available as drop-in"
+
+- name: "Dame Errant"
+  category: "ceramics_studio"
+  city: "Minneapolis"
+  description: >
+    An adult clay workshop and throwing studio treating creativity as a form of self-care.
+    Offers both free-flow and guided sessions, including themed making experiences like
+    'girl dinner' plates, matcha bowls, and more.
+  features:
+    - "Adult wheel throwing classes"
+    - "Free-flow creative sessions"
+    - "Guided themed workshops"
+    - "Self-care focused environment"
+  location: "Minneapolis, MN"
+  access: "Per-class pricing"
+  social:
+    instagram: "https://www.instagram.com/dameerrant"
+
+- name: "Schemespace Community Makerspace & Tutoring"
+  category: "makerspace"
+  city: "Minneapolis"
+  description: >
+    A community makerspace and tutoring center in Minneapolis combining maker access
+    with educational support programming.
+  features:
+    - "Maker tools and digital fabrication"
+    - "Tutoring services"
+    - "Community classes and workshops"
+    - "Youth programming"
+  location: "Minneapolis, MN"
+  access: "Membership and per-class options"
+
+- name: "Banana Leaf Collective"
+  category: "community_arts"
+  city: "Minneapolis"
+  description: >
+    A community arts and cultural space in Minneapolis offering art classes and creative
+    workshops with a focus on cultural community.
+  features:
+    - "Art classes"
+    - "Cultural workshops"
+    - "Community events"
+  location: "Minneapolis, MN"
+  access: "Per-class and event-based"
+
+- name: "MCAD Printshop (Continuing Education)"
+  category: "printmaking"
+  city: "Minneapolis"
+  description: >
+    Open to non-degree students through MCAD Continuing Education, the printshop offers
+    instruction in screenprinting, relief printing (linocut, woodblock), papermaking,
+    and bookbinding. Students develop a creative voice through traditional and contemporary
+    printmaking processes.
+  features:
+    - "Screenprinting"
+    - "Relief printing (linocut and woodblock)"
+    - "Papermaking"
+    - "Bookbinding basics"
+    - "Digital negative techniques"
+    - "Open to non-MCAD students"
+  location: "2501 Stevens Ave, Minneapolis, MN 55404"
+  website: "https://www.mcad.edu/academics/continuing-education"
+  access: "CE per-class fees"
